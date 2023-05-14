@@ -1,0 +1,35 @@
+{
+  "name": "Mehak Mantri",
+  "displayStatsPublic":true,
+  "type": "personal",
+  "bio": "Tech Enthusiast| ",
+  
+  "tags": [ "Open Source", "GitHub", "Community", "Collaboration"],
+  
+ "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/itsmehak_527" },
+    { "icon": "FaGithub", "url": "https://github.com/MehakMantri" },
+    { "icon": "FaLinkedin", "url": "https://www.linkedin.com/in/mehakmantri" }
+  ],
+  "links": [
+    {
+      "group": "Socials Primary",
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/itsmehak_527",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+     {
+      "group": "Socials Primary",
+      "name": "GitHub: Collaborate on Open Source",
+      "url": "https://github.com/MehakMantri",
+      "icon": "FaGithub"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: Let's connect",
+      "url": "https://www.linkedin.com/in/mehakmantri",
+      "icon": "FaLinkedin"
+    }
+    ]
+}
